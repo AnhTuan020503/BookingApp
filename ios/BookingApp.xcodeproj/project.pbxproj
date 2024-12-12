@@ -39,6 +39,25 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = BookingApp/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = BookingApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-BookingApp-BookingAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BookingApp-BookingAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		36FDA0502D0AC2C700351DF3 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		36FDA0512D0AC2C700351DF3 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		36FDA0522D0AC2C700351DF3 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		36FDA0532D0AC2C700351DF3 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		36FDA0542D0AC2C700351DF3 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		36FDA0552D0AC2C700351DF3 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		36FDA0562D0AC2C700351DF3 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		36FDA0572D0AC2C700351DF3 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		36FDA0582D0AC2C700351DF3 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		36FDA0592D0AC2C700351DF3 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		36FDA05A2D0AC2C700351DF3 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		36FDA05B2D0AC2C700351DF3 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		36FDA05C2D0AC2C700351DF3 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		36FDA05D2D0AC2C700351DF3 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		36FDA05E2D0AC2C700351DF3 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		36FDA05F2D0AC2C700351DF3 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		36FDA0602D0AC2C700351DF3 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		36FDA0612D0AC2C700351DF3 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		36FDA0622D0AC2C700351DF3 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-BookingApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BookingApp.debug.xcconfig"; path = "Target Support Files/Pods-BookingApp/Pods-BookingApp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-BookingApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BookingApp.release.xcconfig"; path = "Target Support Files/Pods-BookingApp/Pods-BookingApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-BookingApp-BookingAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BookingApp-BookingAppTests.debug.xcconfig"; path = "Target Support Files/Pods-BookingApp-BookingAppTests/Pods-BookingApp-BookingAppTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -109,6 +128,32 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		36FDA0632D0AC2C700351DF3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				36FDA0502D0AC2C700351DF3 /* AntDesign.ttf */,
+				36FDA0512D0AC2C700351DF3 /* Entypo.ttf */,
+				36FDA0522D0AC2C700351DF3 /* EvilIcons.ttf */,
+				36FDA0532D0AC2C700351DF3 /* Feather.ttf */,
+				36FDA0542D0AC2C700351DF3 /* FontAwesome.ttf */,
+				36FDA0552D0AC2C700351DF3 /* FontAwesome5_Brands.ttf */,
+				36FDA0562D0AC2C700351DF3 /* FontAwesome5_Regular.ttf */,
+				36FDA0572D0AC2C700351DF3 /* FontAwesome5_Solid.ttf */,
+				36FDA0582D0AC2C700351DF3 /* FontAwesome6_Brands.ttf */,
+				36FDA0592D0AC2C700351DF3 /* FontAwesome6_Regular.ttf */,
+				36FDA05A2D0AC2C700351DF3 /* FontAwesome6_Solid.ttf */,
+				36FDA05B2D0AC2C700351DF3 /* Fontisto.ttf */,
+				36FDA05C2D0AC2C700351DF3 /* Foundation.ttf */,
+				36FDA05D2D0AC2C700351DF3 /* Ionicons.ttf */,
+				36FDA05E2D0AC2C700351DF3 /* MaterialCommunityIcons.ttf */,
+				36FDA05F2D0AC2C700351DF3 /* MaterialIcons.ttf */,
+				36FDA0602D0AC2C700351DF3 /* Octicons.ttf */,
+				36FDA0612D0AC2C700351DF3 /* SimpleLineIcons.ttf */,
+				36FDA0622D0AC2C700351DF3 /* Zocial.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +170,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				36FDA0632D0AC2C700351DF3 /* Fonts */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -586,10 +632,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -658,10 +701,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
